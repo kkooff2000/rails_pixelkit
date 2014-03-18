@@ -1,0 +1,17 @@
+.bundle/
+log/*.log
+pkg/
+test/dummy/db/*.sqlite3
+test/dummy/db/*.sqlite3-journal
+test/dummy/log/*.log
+test/dummy/tmp/
+test/dummy/.sass-cache
+
+*.gem
+.bundle
+Gemfile.lock
+.DS_Store
+*.swp
+*~
+.rvmrc
+coverage/*

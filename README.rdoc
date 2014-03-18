@@ -1,0 +1,12 @@
+= RailsPixelkit
+
+This project rocks and uses MIT-LICENSE.
+
+Add //= require rails_pixelkit in application.js
+Add //= require rails_pixelkit in application.css.scss
+
+Only have funky_tune theme right now.
+
+Have fun.
+
+Reference http://pixelkit.com.
